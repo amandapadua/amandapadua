@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1033,100:2d1b69&height=200&section=header&text=Amanda%20de%20P%C3%A1dua&fontSize=44&fontColor=e2e8f0&animation=fadeIn&fontAlignY=36&desc=Desenvolvedora%20Full%20Stack&descAlignY=58&descSize=20&descColor=a78bfa" width="100%" />
 
 <a href="https://github.com/amandapadua">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&background=0D111700&center=true&vCenter=true&width=520&lines=Full+Stack+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Resolvendo+problemas+com+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=8B5CF6&background=0D111700&center=true&vCenter=true&width=520&lines=Desenvolvedora+Full+Stack+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Resolvendo+problemas+com+tecnologia" alt="Typing SVG" />
 </a>
 
 <br/>
