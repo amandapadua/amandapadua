@@ -11,7 +11,6 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FIAP** (conclusão em 2028)
 - 🔄 Em transição de carreira: minha experiência em **logística e administração** me deu visão de processos, organização e foco em resolver problemas reais
-- 🌐 Desenvolvo sites e sistemas para **negócios locais** como freelancer
 - 🌱 Aprendendo agora: **Next.js, JavaScript, Python, TypeScript, Node.js, Firebase e arquitetura de software**
 
 ---
